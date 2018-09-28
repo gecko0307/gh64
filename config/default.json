@@ -1,13 +1,13 @@
 {
     "font1": {
-        "fontFamily": "BMWGlobal_Pro_thin",
-		"fontFile": "BMWGlobal_Pro_thin.ttf",
-        "whitelist": "Привет!"
+        "fontFamily": "Your_font_name",
+		"fontFile": "Your_font_name.ttf",
+        "whitelist": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     },
 	
     "font2": {
-        "fontFamily": "BMWGlobal_Pro_thin_2",
-		"fontFile": "BMWGlobal_Pro_thin.ttf",
-        "whitelist": "1"
+        "fontFamily": "Your_another_font_name",
+		"fontFile": "Your_another_font_name.ttf",
+        "whitelist": "1234567890"
     }
 }
