@@ -1,0 +1,24 @@
+{
+  "name": "gh64",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gecko0307/gh64"
+  },
+  "keywords": [],
+  "author": "gecko0307",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/gecko0307/gh64/issues"
+  },
+  "homepage": "https://github.com/gecko0307/gh64",
+  "dependencies": {
+    "es6-template-strings": "^2.0.0",
+    "config": "^1.31.0"
+  },
+  "bin": {
+    "gh64": "index.js"
+  }
+}
