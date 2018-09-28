@@ -8,7 +8,7 @@ npm link
 ```
 
 Usage:
-* Copy `config` folder to working directory with your font(s) and edit `config/default.json`. It may look like this:
+* Copy `font.template.css` file and `config` folder to working directory with your font(s) and edit `config/default.json`. It may look like this:
 ```
 {
     "font1": {
