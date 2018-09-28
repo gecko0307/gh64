@@ -1,2 +1,2 @@
 # gh64
-CSS font generator based on glyphhanger
+Base64-encoded CSS font generator based on glyphhanger
