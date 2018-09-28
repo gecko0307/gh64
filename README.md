@@ -13,7 +13,7 @@ Usage:
 {
     "font1": {
         "fontFamily": "Your_font_name",
-		"fontFile": "Your_font_name.ttf",
+        "fontFile": "Your_font_name.ttf",
         "whitelist": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     },
 }
